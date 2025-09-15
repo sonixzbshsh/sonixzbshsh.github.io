@@ -1,0 +1,27 @@
+p{
+    color: rgb(105, 3, 3);
+    font-size: large;
+    font-family: cursive;
+}
+body{
+    background-color: antiquewhite;
+}
+img{
+width: 300px; ;
+}
+
+body{
+    background-image: url();
+}
+
+div{
+    MAX-width: 600px;
+    margin: Auto ;
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
